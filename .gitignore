@@ -1,0 +1,26 @@
+# env (never commit)
+.env
+
+# venv
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# logs
+*.log
+
+# optional large files
+models.zip
+*.keras
+*.h5
+*.pkl
+*.joblib
+
+.venv/
+venv/
+.env
+__pycache__/
+*.pyc
